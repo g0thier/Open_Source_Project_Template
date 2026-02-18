@@ -37,6 +37,8 @@ open-source-template/
 │   └── streamlit_app.py
 ├── docs/
 │   └── images/
+├── notebooks/
+│   └── notebooks.ipynb
 ├── .gitignore
 ├── ACKNOWLEDGEMENTS.md
 ├── CHANGELOG.md
@@ -69,11 +71,11 @@ pip install -r dashboard/requirements.txt
 streamlit run dashboard/streamlit_app.py
 ```
 
-## Security
+## 🥽 Security
 
 See [SECURITY.md](/SECURITY.md) for vulnerability reporting guidelines.
 
-## Changelog
+## 📰 Changelog
 
 Track all notable project changes in [CHANGELOG.md](/CHANGELOG.md).
 
@@ -82,7 +84,7 @@ Recommended:
 - Create an entry for each release
 - Include Added, Changed, Fixed, and Removed sections when relevant
 
-## Acknowledgements
+## 🩷 Acknowledgements
 
 - Use [ACKNOWLEDGEMENTS.md](/ACKNOWLEDGEMENTS.md) to credit people, tools, libraries, and communities that helped the project.
 
