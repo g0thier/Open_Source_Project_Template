@@ -1,10 +1,21 @@
 # Open Source Project Template (Gauthier)
 
+## Description
+
 Starter template for building and publishing open source projects with a clean structure and community standards already in place.
 
 ![Capture](/docs/images/Capture.png)
 
-## What this template includes
+## 🎯 Objective of the project
+
+Facilitate and Accelerate project creation.
+
+## 👥 Target audience 
+
+- Python Developers 
+- Students in mathematics / computer science
+
+## ⚙️ What this template includes
 
 - `.gitignore` for macOS configuration
 - Core community files:
@@ -17,7 +28,7 @@ Starter template for building and publishing open source projects with a clean s
 - Optional Streamlit starter app in `dashboard/`
 - Basic documentation assets in `docs/`
 
-## Repository structure
+## 🗂️ Repository structure
 
 ```text
 open-source-template/
@@ -36,7 +47,7 @@ open-source-template/
 └── SECURITY.md
 ```
 
-## Quick start
+## 🚀 Quick start
 
 1. Use this folder as a base for your new open source project.
 2. Rename the project and update this `README.md`.
@@ -49,7 +60,7 @@ open-source-template/
 4. Add your source code and project-specific docs.
 5. Publish and maintain the repository using your contribution workflow.
 
-## Optional local setup (Streamlit)
+## 🐳 Install & execute (Streamlit)
 
 If you use the `dashboard/` app:
 
@@ -57,19 +68,6 @@ If you use the `dashboard/` app:
 pip install -r dashboard/requirements.txt
 streamlit run dashboard/streamlit_app.py
 ```
-
-## Customization checklist
-
-- Project name and one-sentence description
-- Installation instructions
-- Usage examples
-- Maintainers / contact information
-- Roadmap (optional)
-- Badges (CI, coverage, release)
-
-## Contributing
-
-See [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
 
 ## Security
 
@@ -86,12 +84,28 @@ Recommended:
 
 ## Acknowledgements
 
-Use [ACKNOWLEDGEMENTS.md](/ACKNOWLEDGEMENTS.md) to credit people, tools, libraries, and communities that helped the project.
+- Use [ACKNOWLEDGEMENTS.md](/ACKNOWLEDGEMENTS.md) to credit people, tools, libraries, and communities that helped the project.
 
-## License
+### Environnement
 
-See [LICENSE.md](/LICENSE.md).
+- **Python ≥ 3.13.5**
+- Dependencies listed in [requirements.txt](/dashboard/requirements.txt)
 
-## Author
+## 🧪 État du projet
+
+- 🔬 **Statut** : experimental
+- 🧭 **Roadmap** : to be defined
+
+## 🔒 License
+
+- See [LICENSE.md](/LICENSE.md).
+
+## 🤝 Contributing
+
+Contributions are welcome.
+- See [CONTRIBUTING.md](/CONTRIBUTING.md)
+- Code of conduct available in [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
+
+## 👤 Author
 
 Gauthier Rammault
