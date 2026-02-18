@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+accelerate
+altair
+art
+typing_extensions

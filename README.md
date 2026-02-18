@@ -71,9 +71,17 @@ pip install -r dashboard/requirements.txt
 streamlit run dashboard/streamlit_app.py
 ```
 
+If you use the `fastapi/` app:
+
+```bash
+pip install -r fastapi/requirements.txt
+cd fastapi/app
+fastapi dev main.py
+```
+
 ## 🥽 Security
 
-See [SECURITY.md](/SECURITY.md) for vulnerability reporting guidelines.
+- See [SECURITY.md](/SECURITY.md) for vulnerability reporting guidelines.
 
 ## 📰 Changelog
 
