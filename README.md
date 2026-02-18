@@ -6,6 +6,26 @@ Starter template for building and publishing open source projects with a clean s
 
 ![Capture](/docs/images/Capture.png)
 
+## Table of Contents
+
+- [Open Source Project Template (Gauthier)](#open-source-project-template-gauthier)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [🎯 Objective of the project](#-objective-of-the-project)
+  - [👥 Target audience](#-target-audience)
+  - [⚙️ What this template includes](#️-what-this-template-includes)
+  - [🗂️ Repository structure](#️-repository-structure)
+  - [🚀 Quick start](#-quick-start)
+  - [🐳 Install \& execute](#-install--execute)
+  - [🥽 Security](#-security)
+  - [📰 Changelog](#-changelog)
+  - [🩷 Acknowledgements](#-acknowledgements)
+    - [Environnement](#environnement)
+  - [🧪 Project Status](#-project-status)
+  - [🔒 License](#-license)
+  - [🤝 Contributing](#-contributing)
+  - [👤 Author](#-author)
+
 ## 🎯 Objective of the project
 
 Facilitate and Accelerate project creation.
@@ -62,7 +82,7 @@ open-source-template/
 4. Add your source code and project-specific docs.
 5. Publish and maintain the repository using your contribution workflow.
 
-## 🐳 Install & execute (Streamlit)
+## 🐳 Install & execute
 
 If you use the `dashboard/` app:
 
@@ -101,7 +121,7 @@ Recommended:
 - **Python ≥ 3.13.5**
 - Dependencies listed in [requirements.txt](/dashboard/requirements.txt)
 
-## 🧪 État du projet
+## 🧪 Project Status
 
 - 🔬 **Statut** : experimental
 - 🧭 **Roadmap** : to be defined
